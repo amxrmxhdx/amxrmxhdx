@@ -5,7 +5,7 @@
 - 🏢 Developer & Founder of [PixliesNet](http://github.com/PixliesEarth/)
 - ☕ Currently developing in Java & JavaScript
 - 🎮 Developer of [Staxx Studios](https://github.com/staxxgame/)
-- <img alt="Iran Flag" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/flag-iran_1f1ee-1f1f7.png" width=20 /> Iranian
+- 🇮🇷 Iranian
 - 
    <details>
     <summary>📫 Contact:</summary>
