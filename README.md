@@ -12,8 +12,6 @@
 
       Discord: MickMMars#1381 (280798475946426369) 
 
-      Email: amir@khamisipour.xyz
-
     </details>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amxrmxhdx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
