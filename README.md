@@ -1,6 +1,6 @@
 <h1>Who am I?</h1>
 
-- 📅 20 years old
+- 📅 21 years old
 - 💻 Started developing Bukkit Plugins in late 2014
 - 🏢 Developer & Founder of [PixliesNet](http://github.com/PixliesEarth/)
 - ☕ Currently developing in Java & JavaScript
