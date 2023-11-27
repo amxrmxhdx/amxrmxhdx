@@ -8,7 +8,7 @@
    <details>
     <summary>📫 Contact:</summary>
 
-      Discord: @amirmamir 
+      Discord: @amxrmxhdx 
 
     </details>
 
