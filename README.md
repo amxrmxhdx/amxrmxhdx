@@ -3,7 +3,7 @@
 - 📅 21 years old
 - 💻 Started developing Bukkit Plugins in late 2014
 - 🏢 Developer & Founder of [PixliesNet](http://github.com/PixliesEarth/)
-- ☕ Currently developing in Java & JavaScript
+- ☕ Confident in Java, JavaScript, C, C++, C#
 - 
    <details>
     <summary>📫 Contact:</summary>
