@@ -11,5 +11,3 @@
       Discord: @amxrmxhdx 
 
     </details>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amxrmxhdx)](https://github.com/anuraghazra/github-readme-stats)
